@@ -8,7 +8,7 @@
 
 <p align="center">Jouer au modpack/serveur Hamacraft sans se soucier d'installer Java, Forge ou des mods. Nous nous occupons de ça.</p>
 
-![Screenshot 1](https://i.imgur.com/x7mg72M.png)
+![Screenshot 1](https://i.imgur.com/C5vEj2t.png)
 ![Screenshot 2](https://i.imgur.com/Njuas6j.png)
 
 ## Fonctionnalités
@@ -71,7 +71,7 @@ Si vous ne voyez toujours pas la console, vérifiez que l'onglet "Console" est s
 
 Si vous voulez exporter les logs de la console, faites simplement un clique droit n'importe ou dans la console et cliquez sur **Save as..**
 
-![console example](https://i.imgur.com/T5e73jP.png)
+![console example](https://i.imgur.com/oirwNap.png)
 
 
 ## Développement
