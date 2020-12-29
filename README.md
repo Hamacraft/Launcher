@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(basé sur l'Helios Launcher, anciennement Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/Hamacraft/Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/github/Hamacraft/Launcher) [<img src="https://img.shields.io/github/downloads/Hamacraft/Launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Hamacraft/Launcher/releases) <img src="https://forthebadge.com/images/badges/built-with-swag.svg" height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/travis/Hamacraft/Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.com/github/Hamacraft/Launcher) [<img src="https://img.shields.io/github/downloads/Hamacraft/Launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Hamacraft/Launcher/releases) <img src="https://forthebadge.com/images/badges/built-with-swag.svg" height="28px" alt="stark"></p>
 
 <p align="center">Jouer au modpack/serveur Hamacraft sans se soucier d'installer Java, Forge ou des mods. Nous nous occupons de ça.</p>
 
