@@ -9,7 +9,7 @@
 <p align="center">Jouer au modpack/serveur Hamacraft sans se soucier d'installer Java, Forge ou des mods. Nous nous occupons de ça.</p>
 
 ![Screenshot 1](https://i.imgur.com/C5vEj2t.png)
-![Screenshot 2](https://i.imgur.com/Njuas6j.png)
+![Screenshot 2](https://i.imgur.com/bx0k3pO.png)
 
 ## Fonctionnalités
 
